@@ -1,0 +1,9 @@
+body{
+    background: url(http://assets.strikingly.com/static/backgrounds/blur/7.jpg);
+	background-color: #444;
+    background: url(http://assets.strikingly.com/static/backgrounds/blur/7.jpg),url(http://assets.strikingly.com/static/backgrounds/blur/7.jpg),url(http://assets.strikingly.com/static/backgrounds/blur/7.jpg);    
+}
+
+.vertical-offset-100{
+    padding-top:100px;
+}
